@@ -6,4 +6,4 @@ This Apps just shows my personal information (Name, Occupation, Mobile Number an
 
 # Project Content
 
-![](../../../Downloads/Screenshot_20230516_231947.png)
+[Screenshot_20230516_231947](https://github.com/Navid-Rahman/mi_card_navid/assets/77515075/66935756-e1b1-43d7-bc90-bf49fa6c1b5a)

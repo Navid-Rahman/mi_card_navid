@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
                       style: TextStyle(
                         color: Color.fromARGB(255, 26, 74, 69),
                         fontFamily: 'Source Sans Pro',
-                        fontSize: 18.0,
+                        fontSize: 18.1,
                       ),
                     ),
                   ),
@@ -87,7 +87,7 @@ class MyApp extends StatelessWidget {
                       style: TextStyle(
                         color: Color.fromARGB(255, 26, 74, 69),
                         fontFamily: 'Source Sans Pro',
-                        fontSize: 18.0,
+                        fontSize: 18.1,
                       ),
                     ),
                   ),

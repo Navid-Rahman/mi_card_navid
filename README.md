@@ -11,7 +11,8 @@ The Flutter Contact Card is a simple and visually appealing Flutter application 
 To use this code, ensure you have Flutter installed on your system. Simply copy and paste the provided code into your Flutter project's main file and run the application. Customize the details and styling according to your preferences to create your own contact card.
 
 # Screenshots
-![Screenshot_20230516_231947 (1)](https://github.com/Navid-Rahman/mi_card_navid/assets/77515075/9ea4ce7f-f8e8-4857-98ab-2459cbd66540)
+![Screenshot_20230517_223834 (1)](https://github.com/Navid-Rahman/mi_card_navid/assets/77515075/722b4725-fc3b-4233-b7c0-24ce275c7bad)
+
 
 
 # Contact

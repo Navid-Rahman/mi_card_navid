@@ -12,6 +12,7 @@ To use this code, ensure you have Flutter installed on your system. Simply copy 
 
 # Screenshots
 ![Screenshot_20230517_223834 (1)](https://github.com/Navid-Rahman/mi_card_navid/assets/77515075/722b4725-fc3b-4233-b7c0-24ce275c7bad)
+![Screenshot_20230516_231947](https://github.com/Navid-Rahman/mi_card_navid/assets/77515075/33a70a4b-8013-4be3-a6e7-ab02c432db02)
 
 
 
